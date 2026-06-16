@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1.0",
-  "apkUrl": "https://github.com/BKHornYT/pokeplay-releases/releases/download/v2/app-debug.apk",
-  "notes": "Premium price now $4.99/mo. Join queue reworked: everyone gets a 5s Premium-priority window on every raid, with a live countdown. Calendar: tap an event to set a reminder notification or add it to your device calendar."
+  "versionCode": 3,
+  "versionName": "1.1.1",
+  "apkUrl": "https://github.com/BKHornYT/pokeplay-releases/releases/download/v3/app-debug.apk",
+  "notes": "Fixes the update loop: the app now sends you to the right Android settings toggle (\"Install unknown apps\") instead of silently failing to install."
 }
