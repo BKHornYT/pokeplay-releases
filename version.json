@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.3.3",
-  "apkUrl": "https://github.com/BKHornYT/pokeplay-releases/releases/download/v9/app-debug.apk",
-  "notes": "Profile customization! Pick a profile accent color and a Pokémon profile picture (everyone). Premium unlocks shiny-legendary avatars, an animated banner, a glowing name, a gold avatar frame and a custom title. Tap Edit Profile to make yours."
+  "versionCode": 10,
+  "versionName": "1.3.4",
+  "apkUrl": "https://github.com/BKHornYT/pokeplay-releases/releases/download/v10/app-debug.apk",
+  "notes": "Profile glow-up! 3 avatar styles — Aura (free), GO Badge & Spotlight (Premium). Each Pokémon now sits on a backdrop tinted to its type and renders sharper. Your avatar now shows on the Raids header and Friends list too. Find Trainers can sort by Recent, Popular or Top rated. Tap Edit Profile to make yours."
 }
