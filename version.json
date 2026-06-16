@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.2.0",
-  "apkUrl": "https://github.com/BKHornYT/pokeplay-releases/releases/download/v4/app-debug.apk",
-  "notes": "Redesigned the Premium page: compact single-screen layout, single-line perk list, bolder price/CTA card."
+  "versionCode": 5,
+  "versionName": "1.2.1",
+  "apkUrl": "https://github.com/BKHornYT/pokeplay-releases/releases/download/v5/app-debug.apk",
+  "notes": "Fixes the update-loop bug where the app could think it needed updating to the version it was already on."
 }
