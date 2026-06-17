@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.3.6",
-  "apkUrl": "https://github.com/BKHornYT/pokeplay-releases/releases/download/v12/app-debug.apk",
-  "notes": "Fresh profile look! Your profile — and every other player's — now uses a full-screen themed gradient with clean frosted-glass cards, so there's no more empty black space at the bottom. Reputation is simpler: your top trait plus how many trainers agree (5+, 10+, 25+…) instead of a long list. Removed the avatar glow for a cleaner look. Your own profile and the one others see now match."
+  "versionCode": 13,
+  "versionName": "1.3.7",
+  "apkUrl": "https://github.com/BKHornYT/pokeplay-releases/releases/download/v13/app-debug.apk",
+  "notes": "Profile polish! Cards are now clean dark glass that stand out clearly on any color, the themed background is smoother (no mid-screen seam), and reputation shows your top trait plus how many trainers agree (5+, 10+, 25+…). Other players' profiles now open as a draggable sheet you can pull up to expand — so nothing gets cut off at the bottom."
 }
