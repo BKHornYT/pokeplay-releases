@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "1.3.11",
-  "apkUrl": "https://github.com/BKHornYT/pokeplay-releases/releases/download/v17/app-debug.apk",
-  "notes": "Admins can now choose how each announcement is delivered — in-app banner, phone notification, or both — and see how many devices it reached and how many tapped it. Admin status can no longer be changed from inside the app."
+  "versionCode": 16,
+  "versionName": "1.3.10",
+  "apkUrl": "https://github.com/BKHornYT/pokeplay-releases/releases/download/v16/app-debug.apk",
+  "notes": "Admin Center gets reports moderation, account bans (suspended accounts are blocked from the app), full user management (grant Premium/admin, set tags, ban/unban), live raids oversight with force-delete, a stats overview, and a moderation audit log. Announcements now also fire a notification."
 }
